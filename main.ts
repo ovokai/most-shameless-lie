@@ -1,7 +1,7 @@
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
 
-const ENTRY = "I tested it";
+const ENTRY = "It works on my machine.";
 const outputDir = "/output";
 
 try {
